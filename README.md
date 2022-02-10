@@ -1,0 +1,6 @@
+- My name is Zeus.
+- In the near future I will publish my cybersecurity notes and scripts here.
+- Im currently working on getting the OSCE3 by passing the OSED, OSCP, OSEP, OSWE.
+- I have my BS in Computer Science.
+- Feel free to reach out to me on LinkedIn.
+- https://www.linkedin.com/in/zeusb/
