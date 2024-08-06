@@ -1,11 +1,19 @@
 - My name is Zeus.
-- In the near future I will publish my cybersecurity notes and scripts here.
-- I have my BS in Computer Science.
+- I have my BS in Computer Science & a MS in Cybersecurity and Information Assurance
 - Feel free to reach out to me on LinkedIn.
 - https://www.linkedin.com/in/zeusb/
-- I am currently working on my Master's of Science in Cybersecurity and Information Assurance
-- I am also working on the following certifications: 
--   Certified Penetration Testing Specialist (CPTS) by Hack The Box
--   Certified Red Team Operator by Zero Point Security
--   Certified Red Team Professional by Altered Security
-- The goal is to finish these certifications and my Master's Degree by the end of 2023
+- I am currently working on the SANS Purple Team Operations Graduate Certificate
+- I currently have the following certifications:
+	- GSEC
+	- GCED
+	- GCIH
+	- GCIA
+	- GPEN
+	- CRTO
+	- PNPT
+	- PJPT
+- I am currently working on or will work on the following certs and hopefully earn them by the end of 2024:
+	- OSCP
+	- CRTP
+	- AWS Certified Security Specialty
+	- GCTI
